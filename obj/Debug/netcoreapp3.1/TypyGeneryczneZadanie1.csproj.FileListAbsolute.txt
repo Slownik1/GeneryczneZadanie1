@@ -1,0 +1,13 @@
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\bin\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.exe
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\bin\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.deps.json
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\bin\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.runtimeconfig.json
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\bin\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.runtimeconfig.dev.json
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\bin\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.dll
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\bin\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.pdb
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\obj\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\obj\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\obj\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.AssemblyInfo.cs
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\obj\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\obj\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.dll
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\obj\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.pdb
+C:\Users\dawid\source\repos\TypyGeneryczneZadanie1\obj\Debug\netcoreapp3.1\TypyGeneryczneZadanie1.genruntimeconfig.cache
